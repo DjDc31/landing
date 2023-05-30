@@ -1,0 +1,43 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  margin: auto;
+  background-image: url(https://www.homeexchange.fr/blog/content/images/2020/04/pasted-image-0.png);
+}
+
+.banner h1 {
+  color: white;
+  }
+
+.banner p {
+  color: rgb(255, 255, 255);
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-primary{
+  display: inline-block;
+  background-color: #d0f0e2;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-primary:hover{
+  transition-duration: 0.5s;
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: auto;
+  width: 900px;
+}
